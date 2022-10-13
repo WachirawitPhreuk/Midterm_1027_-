@@ -1,0 +1,15 @@
+D:\MDT210 Code\Midterm_1027_จริงๆ\bin\Debug\net6.0\Midterm_1027_จริงๆ.exe
+D:\MDT210 Code\Midterm_1027_จริงๆ\bin\Debug\net6.0\Midterm_1027_จริงๆ.deps.json
+D:\MDT210 Code\Midterm_1027_จริงๆ\bin\Debug\net6.0\Midterm_1027_จริงๆ.runtimeconfig.json
+D:\MDT210 Code\Midterm_1027_จริงๆ\bin\Debug\net6.0\Midterm_1027_จริงๆ.dll
+D:\MDT210 Code\Midterm_1027_จริงๆ\bin\Debug\net6.0\Midterm_1027_จริงๆ.pdb
+D:\MDT210 Code\Midterm_1027_จริงๆ\obj\Debug\net6.0\Midterm_1027_จริงๆ.csproj.AssemblyReference.cache
+D:\MDT210 Code\Midterm_1027_จริงๆ\obj\Debug\net6.0\Midterm_1027_จริงๆ.GeneratedMSBuildEditorConfig.editorconfig
+D:\MDT210 Code\Midterm_1027_จริงๆ\obj\Debug\net6.0\Midterm_1027_จริงๆ.AssemblyInfoInputs.cache
+D:\MDT210 Code\Midterm_1027_จริงๆ\obj\Debug\net6.0\Midterm_1027_จริงๆ.AssemblyInfo.cs
+D:\MDT210 Code\Midterm_1027_จริงๆ\obj\Debug\net6.0\Midterm_1027_จริงๆ.csproj.CoreCompileInputs.cache
+D:\MDT210 Code\Midterm_1027_จริงๆ\obj\Debug\net6.0\Midterm_1027_จริงๆ.dll
+D:\MDT210 Code\Midterm_1027_จริงๆ\obj\Debug\net6.0\refint\Midterm_1027_จริงๆ.dll
+D:\MDT210 Code\Midterm_1027_จริงๆ\obj\Debug\net6.0\Midterm_1027_จริงๆ.pdb
+D:\MDT210 Code\Midterm_1027_จริงๆ\obj\Debug\net6.0\Midterm_1027_จริงๆ.genruntimeconfig.cache
+D:\MDT210 Code\Midterm_1027_จริงๆ\obj\Debug\net6.0\ref\Midterm_1027_จริงๆ.dll
